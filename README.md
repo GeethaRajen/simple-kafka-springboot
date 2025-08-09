@@ -6,6 +6,6 @@
 
 <img width="28" height="19" alt="image" src="https://github.com/user-attachments/assets/42b45288-3b3e-4167-b102-3dc67d95fef4" />Multiple consumers can be enabled by running kafka-console-consumer.bat on different terminals.
 
-<img width="28" height="19" alt="image" src="https://github.com/user-attachments/assets/42b45288-3b3e-4167-b102-3dc67d95fef4" /><b>Kafka Components</b>
+<b>Kafka Classes</b>
 
 <img width="770" height="455" alt="image" src="https://github.com/user-attachments/assets/1fa8b0fa-fbdc-47d1-af8c-46341177f736" />
